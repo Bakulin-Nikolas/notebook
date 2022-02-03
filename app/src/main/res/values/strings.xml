@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="ed_title_hint">Заголовок</string>
+    <string name="ed_desc_hint">Описание</string>
+</resources>
